@@ -1,1 +1,5 @@
-
+info:
+  profile: default
+  
+file:
+  name: eureka-client.yml
